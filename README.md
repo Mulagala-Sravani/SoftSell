@@ -11,7 +11,7 @@
 
   <h2 align="center">SoftSell - Digital Marketing Agency Website</h2>
 
-  InnoHub is a fully responsive digital marketing agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  SoftSell is a fully responsive digital marketing agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/innohub/"><strong>➥ Live Demo</strong></a>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![InnoHub Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![SoftSell Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,18 +31,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **InnoHub** locally, run this command on your git bash:
+To run **SoftSell** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/innohub.git
+sudo git clone https://github.com/codewithsadee/SoftSell.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/innohub.git
+git clone https://github.com/codewithsadee/SoftSell.git
 ```
 
 ### Contact
