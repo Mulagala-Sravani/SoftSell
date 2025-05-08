@@ -21,7 +21,7 @@ aria-label = Toggle menu
 
 #---------- HERO ----------#
 
-softSell Marketing Agency
+SoftSell Marketing Agency
 
 We are available for marketing
 
