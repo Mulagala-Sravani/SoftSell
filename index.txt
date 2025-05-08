@@ -1,8 +1,8 @@
-InnoHub - We're available for marketing
+SoftShell - We're available for marketing
 
 #---------- HEADER ----------#
 
-InnoHub
+SoftSell
 
 Home
 Services
@@ -21,7 +21,7 @@ aria-label = Toggle menu
 
 #---------- HERO ----------#
 
-InnoHub Marketing Agency
+softSell Marketing Agency
 
 We are available for marketing
 
